@@ -20,3 +20,4 @@ Listo ahora correr:
 pipenv run python3 fbdown.py
 ```
 
+Ingrese cualquier url de un post, video, live (en vivo) o multiples videos en post y disfrute.
